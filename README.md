@@ -8,7 +8,7 @@ Sou um estudante do 3º período de **Ciência da Computação** no Centro Unive
 ### 🚀 Sobre mim
 * 🎓 Cursando Ciência da Computação (Previsão de formatura: 2028).
 * 🔭 Atualmente envolvido no desenvolvimento e suporte do **Projeto Arena PJ** (sistema de gestão de jogos universitários da faculdade).
-* 🌱 Aprimorando conhecimentos em **Redes de Computadores** e aprofundando em algoritmos e lógica (C, Java e C).
+* 🌱 Aprimorando conhecimentos em **Redes de Computadores** e aprofundando em algoritmos e lógica (Java e C).
 * 🎨 Tenho forte interesse em estruturação de requisitos e design de interfaces.
 
 ### 💻 Tecnologias e Ferramentas
